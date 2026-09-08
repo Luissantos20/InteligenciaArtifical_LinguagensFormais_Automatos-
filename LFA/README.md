@@ -2,7 +2,7 @@
 
 Disciplina: Teoria das Linguagens e Autômatos
 Turma: Ciência da Computação N1 — 6º semestre
-Data: __________
+Data: 08/09/2027
 
 Integrantes:
 - Luís Filipe Silva Santos
