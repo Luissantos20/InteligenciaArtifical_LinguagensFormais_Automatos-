@@ -348,7 +348,7 @@ Porque q15 não possui nenhuma transição de volta para si mesmo nem para qualq
 
 Print da execução:
 
-![Teste da Regex no Regex Learn Playground](print-regexlearn.png)
+![Teste da Regex no Regex Learn Playground](print-regexlearn.PNG)
 
 ### Análise
 
